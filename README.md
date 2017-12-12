@@ -1,0 +1,2 @@
+spring+mybatis+自动生成范例
+generatorConfig为自动生成配置,可生成dao,mapping和model
